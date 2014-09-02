@@ -10,7 +10,7 @@ var starVal;
 	 	if (Test(endi)){
 	 		fb(endi);
 	 		}else{ 
-	 			alert("OOO! Come on! Stop Monkey Business and Input an Appropreate Number!");
+	 			alert("OOO! Come on! Stop Monkey Business and Input an Appropriate Number!");
 	 			}
 	 	}
 
